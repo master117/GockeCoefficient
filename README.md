@@ -27,7 +27,6 @@ Given an integer input `x`, the algorithm:
 - Encoded string ("JOHANNES GOCKE"): [74,79,72,65,78,78,69,83,32,71,79,67,75,69]
 - Modulus: 1,000,000,007
 
-- 
 ## Implementations
 
 - JavaScript → `js/gocke.js`
