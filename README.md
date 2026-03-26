@@ -30,10 +30,10 @@ Given an integer input `x`, the algorithm:
 - 
 ## Implementations
 
-- JavaScript → `GockeCoefficient.js`
-- Python → `GockeCoefficient.py`
-- C# → `GockeCoefficient.cs`
-- C++ → `GockeCoefficient.cpp`
+- JavaScript → `js/gocke.js`
+- Python → `python/gocke.py`
+- C# → `csharp/Gocke.cs`
+- C++ → `cpp/gocke.cpp`
 
 ## Expected Behavior
 
